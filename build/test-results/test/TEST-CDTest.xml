@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CDTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-12-11T06:26:34" hostname="LEON" time="0.011">
+  <properties/>
+  <testcase name="withdrawing_money_more_than_cd_account_amount()" classname="CDTest" time="0.001"/>
+  <testcase name="return_apr_amount()" classname="CDTest" time="0.001"/>
+  <testcase name="depositing_10_dollars_to_cd_account()" classname="CDTest" time="0.001"/>
+  <testcase name="depositing_twice_to_cd_account()" classname="CDTest" time="0.0"/>
+  <testcase name="account_balance_is_100()" classname="CDTest" time="0.001"/>
+  <testcase name="withdrawing_twice_in_saving_account()" classname="CDTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

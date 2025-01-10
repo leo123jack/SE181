@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MasterControlTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-12-11T06:26:34" hostname="LEON" time="0.059">
+  <properties/>
+  <testcase name="invalid_to_create_accounts_with_same_ID()" classname="MasterControlTest" time="0.028"/>
+  <testcase name="sample_make_sure_this_passes_unchanged_or_you_will_fail()" classname="MasterControlTest" time="0.006"/>
+  <testcase name="typo_in_create_command_is_invalid()" classname="MasterControlTest" time="0.001"/>
+  <testcase name="withdrawing_from_saving_account_twice_in_a_month()" classname="MasterControlTest" time="0.003"/>
+  <testcase name="withdrawing_from_cd_account()" classname="MasterControlTest" time="0.001"/>
+  <testcase name="withdrawing_from_saving_account_twice_but_using_pass()" classname="MasterControlTest" time="0.009"/>
+  <testcase name="withdrawing_from_cd_account_when_age_is_not_12()" classname="MasterControlTest" time="0.002"/>
+  <testcase name="typo_in_deposit_command_is_invalid()" classname="MasterControlTest" time="0.001"/>
+  <testcase name="two_typo_commands_both_invalid()" classname="MasterControlTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

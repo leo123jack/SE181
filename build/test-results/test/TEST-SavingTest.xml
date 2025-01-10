@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SavingTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-12-11T06:26:34" hostname="LEON" time="0.013">
+  <properties/>
+  <testcase name="depositing_twice_to_saving_account()" classname="SavingTest" time="0.001"/>
+  <testcase name="saving_account_balance_is_zero()" classname="SavingTest" time="0.001"/>
+  <testcase name="return_apr_amount()" classname="SavingTest" time="0.001"/>
+  <testcase name="withdrawing_twice_in_saving_account()" classname="SavingTest" time="0.001"/>
+  <testcase name="withdrawing_money_when_balance_is_more_than_zero_in_saving_account()" classname="SavingTest" time="0.001"/>
+  <testcase name="depositing_20_dollars_to_saving_account()" classname="SavingTest" time="0.001"/>
+  <testcase name="withdrawing_money_when_balance_is_zero_to_saving_account()" classname="SavingTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

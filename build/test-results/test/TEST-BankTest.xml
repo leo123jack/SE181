@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BankTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-12-11T06:26:34" hostname="LEON" time="0.05">
+  <properties/>
+  <testcase name="depositing_money_twice_by_id_to_the_bank()" classname="BankTest" time="0.038"/>
+  <testcase name="withdrawing_money_twice_by_id_to_the_bank()" classname="BankTest" time="0.0"/>
+  <testcase name="retrieving_one_account()" classname="BankTest" time="0.001"/>
+  <testcase name="withdrawing_money_once_by_id_to_the_bank()" classname="BankTest" time="0.0"/>
+  <testcase name="no_accounts_in_bank_when_bank_is_created()" classname="BankTest" time="0.002"/>
+  <testcase name="add_one_account_to_bank()" classname="BankTest" time="0.001"/>
+  <testcase name="depositing_money_once_to_the_bank_by_id()" classname="BankTest" time="0.0"/>
+  <testcase name="add_two_accounts_to_bank()" classname="BankTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

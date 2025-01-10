@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CommandProcessorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-12-11T06:26:34" hostname="LEON" time="0.013">
+  <properties/>
+  <testcase name="depositing_into_a_empty_checking_account()" classname="CommandProcessorTest" time="0.004"/>
+  <testcase name="depositing_into_a_account_saving_account_with_a_balance()" classname="CommandProcessorTest" time="0.0"/>
+  <testcase name="creating_checking_account()" classname="CommandProcessorTest" time="0.001"/>
+  <testcase name="creating_cd_account()" classname="CommandProcessorTest" time="0.001"/>
+  <testcase name="depositing_into_a_empty_saving_account()" classname="CommandProcessorTest" time="0.001"/>
+  <testcase name="depositing_into_a_account_checking_account_with_a_balance()" classname="CommandProcessorTest" time="0.001"/>
+  <testcase name="creating_savings_account()" classname="CommandProcessorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

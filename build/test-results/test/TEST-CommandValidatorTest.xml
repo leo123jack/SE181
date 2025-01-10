@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CommandValidatorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-12-11T06:26:34" hostname="LEON" time="0.042">
+  <properties/>
+  <testcase name="testing_two_accounts_with_same_ID()" classname="CommandValidatorTest" time="0.027"/>
+  <testcase name="testing_create_command_for_saving_account()" classname="CommandValidatorTest" time="0.001"/>
+  <testcase name="creating_a_command_with_typo()" classname="CommandValidatorTest" time="0.0"/>
+  <testcase name="depositing_with_no_id()" classname="CommandValidatorTest" time="0.002"/>
+  <testcase name="creating_two_accounts_with_same_ID()" classname="CommandValidatorTest" time="0.001"/>
+  <testcase name="creating_a_command_with_alternating_cases()" classname="CommandValidatorTest" time="0.001"/>
+  <testcase name="creating_a_valid_deposit_command()" classname="CommandValidatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

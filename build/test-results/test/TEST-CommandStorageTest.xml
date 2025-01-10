@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CommandStorageTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-12-11T06:26:34" hostname="LEON" time="0.007">
+  <properties/>
+  <testcase name="command_storage_is_empty()" classname="CommandStorageTest" time="0.001"/>
+  <testcase name="adding_invalid_command()" classname="CommandStorageTest" time="0.0"/>
+  <testcase name="adding_one_valid_command_and_two_invalid_commands()" classname="CommandStorageTest" time="0.002"/>
+  <testcase name="adding_two_invalid_commands()" classname="CommandStorageTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

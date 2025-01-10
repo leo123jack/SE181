@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DepositValidatorTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2023-12-11T06:26:34" hostname="LEON" time="0.02">
+  <properties/>
+  <testcase name="depositing_command_with_camel_case()" classname="DepositValidatorTest" time="0.001"/>
+  <testcase name="depositing_a_valid_amount_in_a_checking_account()" classname="DepositValidatorTest" time="0.0"/>
+  <testcase name="depositing_nothing_into_a_valid_account()" classname="DepositValidatorTest" time="0.0"/>
+  <testcase name="depositing_a_negative_amount_into_a_valid_account()" classname="DepositValidatorTest" time="0.001"/>
+  <testcase name="depositing_a_invalid_amount_in_a_saving_account()" classname="DepositValidatorTest" time="0.001"/>
+  <testcase name="depositing_a_invalid_amount_in_a_checking_account()" classname="DepositValidatorTest" time="0.0"/>
+  <testcase name="depositing_a_valid_amount_in_a_saving_account()" classname="DepositValidatorTest" time="0.001"/>
+  <testcase name="depositing_a_zero_into_a_valid_account()" classname="DepositValidatorTest" time="0.001"/>
+  <testcase name="depositing_from_a_CD_account()" classname="DepositValidatorTest" time="0.0"/>
+  <testcase name="depositing_into_a_valid_account_without_deposit_command()" classname="DepositValidatorTest" time="0.0"/>
+  <testcase name="depositing_a_valid_amount_in_a_invalid_account_two()" classname="DepositValidatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

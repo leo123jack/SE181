@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CreateValidatorTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2023-12-11T06:26:34" hostname="LEON" time="0.043">
+  <properties/>
+  <testcase name="creating_a_invalid_saving_account_with_a_balance()" classname="CreateValidatorTest" time="0.001"/>
+  <testcase name="creating_a_valid_saving_account()" classname="CreateValidatorTest" time="0.001"/>
+  <testcase name="creating_a_invalid_cd_account_with_negative_balance()" classname="CreateValidatorTest" time="0.001"/>
+  <testcase name="creating_a_invalid_checking_account_with_no_id()" classname="CreateValidatorTest" time="0.0"/>
+  <testcase name="creating_a_valid_checking_account()" classname="CreateValidatorTest" time="0.001"/>
+  <testcase name="creating_a_invalid_command_by_adding_2_empty_accounts()" classname="CreateValidatorTest" time="0.0"/>
+  <testcase name="creating_a_invalid_cd_account_with_bad_apr_value_and_account_balance()" classname="CreateValidatorTest" time="0.001"/>
+  <testcase name="creating_a_invalid_cd_account_with_high_balance()" classname="CreateValidatorTest" time="0.0"/>
+  <testcase name="creating_a_invalid_cd_account_with_low_balance()" classname="CreateValidatorTest" time="0.001"/>
+  <testcase name="creating_a_valid_cd_account()" classname="CreateValidatorTest" time="0.001"/>
+  <testcase name="creating_a_invalid_cd_account_with_bad_id_number()" classname="CreateValidatorTest" time="0.0"/>
+  <testcase name="creating_a_invalid_cd_account_with_0_balance()" classname="CreateValidatorTest" time="0.001"/>
+  <testcase name="creating_a_invalid_checking_account_with_a_balance()" classname="CreateValidatorTest" time="0.001"/>
+  <testcase name="creating_a_invalid_saving_account_with_bad_id_number_and_apr_value()" classname="CreateValidatorTest" time="0.0"/>
+  <testcase name="creating_a_invalid_checking_account_with_no_apr_value()" classname="CreateValidatorTest" time="0.001"/>
+  <testcase name="creating_a_invalid_saving_account_with_bad_id_number()" classname="CreateValidatorTest" time="0.002"/>
+  <testcase name="creating_a_invalid_saving_account_with_bad_apr_value()" classname="CreateValidatorTest" time="0.001"/>
+  <testcase name="creating_a_invalid_cd_account_with_bad_id_number_two()" classname="CreateValidatorTest" time="0.001"/>
+  <testcase name="creating_a_invalid_cd_account_with_no_balance()" classname="CreateValidatorTest" time="0.001"/>
+  <testcase name="creating_a_invalid_checking_account_with_negative_id()" classname="CreateValidatorTest" time="0.001"/>
+  <testcase name="creating_a_invalid_saving_account_with_no_create_command()" classname="CreateValidatorTest" time="0.0"/>
+  <testcase name="creating_a_invalid_saving_account_with_negative_apr_value()" classname="CreateValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WithdrawValidatorTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2023-12-11T06:26:34" hostname="LEON" time="0.021">
+  <properties/>
+  <testcase name="withdrawing_from_a_CD_account()" classname="WithdrawValidatorTest" time="0.001"/>
+  <testcase name="withdrawing_into_a_valid_account_without_withdraw_command()" classname="WithdrawValidatorTest" time="0.0"/>
+  <testcase name="withdrawing_a_negative_amount()" classname="WithdrawValidatorTest" time="0.001"/>
+  <testcase name="withdrawing_a_invalid_amount_in_a_checking_account_two()" classname="WithdrawValidatorTest" time="0.0"/>
+  <testcase name="withdrawing_a_invalid_amount_in_a_checking_account()" classname="WithdrawValidatorTest" time="0.004"/>
+  <testcase name="withdrawing_a_valid_amount_in_a_checking_account()" classname="WithdrawValidatorTest" time="0.001"/>
+  <testcase name="withdrawing_a_valid_amount_in_a_saving_account()" classname="WithdrawValidatorTest" time="0.0"/>
+  <testcase name="withdrawing_a_invalid_amount_in_a_saving_account()" classname="WithdrawValidatorTest" time="0.001"/>
+  <testcase name="withdrawing_a_nothing_into_a_saving_account()" classname="WithdrawValidatorTest" time="0.001"/>
+  <testcase name="withdrawing_command_with_camel_case()" classname="WithdrawValidatorTest" time="0.001"/>
+  <testcase name="withdrawing_nothing_into_a_valid_account()" classname="WithdrawValidatorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

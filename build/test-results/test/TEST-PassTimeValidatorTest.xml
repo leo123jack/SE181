@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PassTimeValidatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-12-11T06:26:34" hostname="LEON" time="0.007">
+  <properties/>
+  <testcase name="passing_a_invalid_amount_of_time_2()" classname="PassTimeValidatorTest" time="0.001"/>
+  <testcase name="passing_a_valid_amount_of_time()" classname="PassTimeValidatorTest" time="0.0"/>
+  <testcase name="passing_a_negative_amount_of_time()" classname="PassTimeValidatorTest" time="0.0"/>
+  <testcase name="passing_a_invalid_amount_of_time()" classname="PassTimeValidatorTest" time="0.001"/>
+  <testcase name="passing_time_with_camel_case()" classname="PassTimeValidatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

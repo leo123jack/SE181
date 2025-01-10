@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TransferValidatorTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2023-12-11T06:26:34" hostname="LEON" time="0.018">
+  <properties/>
+  <testcase name="transfer_invalid_amount_from_saving_to_saving()" classname="TransferValidatorTest" time="0.002"/>
+  <testcase name="transfer_invalid_amount_from_checking_to__checking()" classname="TransferValidatorTest" time="0.0"/>
+  <testcase name="transfer_invalid_amount_from_checking_to_saving()" classname="TransferValidatorTest" time="0.001"/>
+  <testcase name="transfer_invalid_amount_from_saving_to_checking()" classname="TransferValidatorTest" time="0.001"/>
+  <testcase name="transfer_to_CD_accounts()" classname="TransferValidatorTest" time="0.001"/>
+  <testcase name="transfer_from_CD_accounts()" classname="TransferValidatorTest" time="0.001"/>
+  <testcase name="transfer_from_saving_to_saving()" classname="TransferValidatorTest" time="0.001"/>
+  <testcase name="transfer_from_checking_to_saving()" classname="TransferValidatorTest" time="0.0"/>
+  <testcase name="transfer_from_checking_to__checking()" classname="TransferValidatorTest" time="0.001"/>
+  <testcase name="transfer_from_saving_to_checking()" classname="TransferValidatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
